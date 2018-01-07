@@ -1,0 +1,26 @@
+{
+  "name": "caroufredsel",
+  "version": "6.2.1",
+  "description": "A circular, responsive carousel plugin built using the jQuery.",
+  "main": "jquery.carouFredSel-6.2.1-packed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kossa/carouFredSel.git"
+  },
+  "keywords": [
+    "jquery",
+    "carousel",
+    "carouFredSel",
+    "responsive",
+    "circular"
+  ],
+  "author": "hadji kouceyla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kossa/carouFredSel/issues"
+  },
+  "homepage": "https://github.com/kossa/carouFredSel#readme"
+}
